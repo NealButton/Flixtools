@@ -2,8 +2,8 @@
     "showStatus": 1,
     "drainageUrl": "snssdk1180://user/profile/72673737181?refer=web&gd_label=click_wap_profile_bottom&type=need_follow&needlaunchlog=1",
     "closeButton": 0,
-    "closeButtonText": "2222",
+    "closeButtonText": "",
     "downButton": 0,
-    "downButtonText": "3333",
+    "downButtonText": "",
     "content": " Thanks!"
 }
