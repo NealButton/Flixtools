@@ -1,5 +1,5 @@
 {
-        "showStatus": 1,
+        "showStatus": 0,
         "drainageUrl": "https://apps.apple.com/us/app/*",
         "closeButton": 0,
         "downButton": 0,
